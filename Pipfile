@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow-gpu = "*"
+tensorflow = "*"
+numpy = "*"
+keras = "*"
+matplotlib = "*"
+scikit-learn = "*"
+imblearn = "*"
+tqdm = "*"
+python-levenshtein = "*"
+tmdbsimple = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.8"
