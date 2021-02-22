@@ -17,6 +17,7 @@ tqdm = "*"
 python-levenshtein = "*"
 tmdbsimple = "*"
 ipykernel = "*"
+diff-match-patch = "*"
 
 [requires]
 python_version = "3.8"
