@@ -18,6 +18,7 @@ python-levenshtein = "*"
 tmdbsimple = "*"
 ipykernel = "*"
 diff-match-patch = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.8"
