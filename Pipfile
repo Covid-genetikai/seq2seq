@@ -19,6 +19,7 @@ tmdbsimple = "*"
 ipykernel = "*"
 diff-match-patch = "*"
 nltk = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"
