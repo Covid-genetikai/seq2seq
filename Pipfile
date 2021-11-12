@@ -22,6 +22,7 @@ nltk = "*"
 pandas = "*"
 graphviz = "*"
 pydot = "*"
+notebook = "*"
 
 [requires]
 python_version = "3.8"
