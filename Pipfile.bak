@@ -1,13 +1,13 @@
 [[source]]
-url = "https://pypi.python.org/simple"
-verify_ssl = true
 name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
 
 [packages]
-tensorflow = ">=2.5.0"
-tensorflow-gpu = ">=2.5.0"
-keras = "*"
 numpy = "*"
+keras = "*"
 matplotlib = "*"
 scikit-learn = "*"
 imblearn = "*"
@@ -21,12 +21,7 @@ pandas = "*"
 graphviz = "*"
 pydot = "*"
 notebook = "*"
-ipywidgets = "*"
-pip = "*"
-jupyter-contrib-nbextensions = "*"
-jupyter-nbextensions-configurator = "*"
-
-[dev-packages]
+tensorflow = ">=2.5.0"
 
 [requires]
 python_version = "3.8"
