@@ -25,6 +25,7 @@ ipywidgets = "*"
 pip = "*"
 jupyter-contrib-nbextensions = "*"
 jupyter-nbextensions-configurator = "*"
+biopython = "*"
 
 [dev-packages]
 
